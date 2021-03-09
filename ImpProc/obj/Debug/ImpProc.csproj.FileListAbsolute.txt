@@ -1,0 +1,12 @@
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Debug\ImpProc.exe.config
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Debug\ImpProc.exe
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Debug\ImpProc.pdb
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Debug\ImpProc.csprojAssemblyReference.cache
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Debug\ImpProc.csproj.CoreCompileInputs.cache
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Debug\ImpProc.exe
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Debug\ImpProc.pdb
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Debug\ImageProcessor.dll
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Debug\System.ValueTuple.dll
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Debug\ImageProcessor.xml
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Debug\System.ValueTuple.xml
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Debug\ImpProc.csproj.CopyComplete

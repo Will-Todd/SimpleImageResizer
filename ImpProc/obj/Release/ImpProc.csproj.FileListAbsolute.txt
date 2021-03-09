@@ -1,0 +1,11 @@
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Release\ImpProc.exe.config
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Release\ImpProc.exe
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Release\ImpProc.pdb
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Release\ImageProcessor.dll
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Release\System.ValueTuple.dll
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Release\ImageProcessor.xml
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\bin\Release\System.ValueTuple.xml
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Release\ImpProc.csproj.CoreCompileInputs.cache
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Release\ImpProc.csproj.CopyComplete
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Release\ImpProc.exe
+C:\Users\wtodd\Documents\Console Apps\Image Processor\ImpProc\ImpProc\obj\Release\ImpProc.pdb
